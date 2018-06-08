@@ -1,0 +1,19 @@
+{
+  "name": "cg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^1.9.1 || ^2.0 || ^3.0",
+    "moment": "^2.17",
+    "moment-timezone": "^0.5.11",
+    "mustache": "^2.3.0",
+    "popper.js": "^1.12.9"
+  }
+}
